@@ -1,0 +1,1 @@
+E:\source\设计模式\SingletonProject\SingletonProject\bin\Debug\SingletonProject.exe.config
