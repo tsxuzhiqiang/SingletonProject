@@ -1,1 +1,2 @@
 E:\source\设计模式\SingletonProject\SingletonProject\bin\Debug\SingletonProject.exe.config
+E:\source\Remote\SingletonProject\SingletonProject\bin\Debug\SingletonProject.exe.config

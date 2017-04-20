@@ -10,6 +10,8 @@ namespace SingletonProject
     {
         static void Main(string[] args)
         {
+
+            Emperor.Instance.Say();
         }
     }
 }
