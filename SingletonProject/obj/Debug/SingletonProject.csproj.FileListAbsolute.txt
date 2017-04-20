@@ -1,2 +1,7 @@
 E:\source\设计模式\SingletonProject\SingletonProject\bin\Debug\SingletonProject.exe.config
 E:\source\Remote\SingletonProject\SingletonProject\bin\Debug\SingletonProject.exe.config
+E:\source\Remote\SingletonProject\SingletonProject\bin\Debug\SingletonProject.exe
+E:\source\Remote\SingletonProject\SingletonProject\bin\Debug\SingletonProject.pdb
+E:\source\Remote\SingletonProject\SingletonProject\obj\Debug\SingletonProject.csprojResolveAssemblyReference.cache
+E:\source\Remote\SingletonProject\SingletonProject\obj\Debug\SingletonProject.exe
+E:\source\Remote\SingletonProject\SingletonProject\obj\Debug\SingletonProject.pdb
